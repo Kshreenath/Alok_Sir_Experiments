@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kshreenath/Desktop/eyrcTASK1_2326-master/Task 1A/task_1a_images/Experiment1.cpp
+opencv2/opencv.hpp
+-
+stdio.h
+-
+

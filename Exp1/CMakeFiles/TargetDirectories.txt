@@ -1,0 +1,3 @@
+/home/kshreenath/Desktop/eyrcTASK1_2326-master/Task 1A/task_1a_images/CMakeFiles/rebuild_cache.dir
+/home/kshreenath/Desktop/eyrcTASK1_2326-master/Task 1A/task_1a_images/CMakeFiles/Experiment1.dir
+/home/kshreenath/Desktop/eyrcTASK1_2326-master/Task 1A/task_1a_images/CMakeFiles/edit_cache.dir
